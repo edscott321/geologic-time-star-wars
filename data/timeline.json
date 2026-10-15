@@ -1,0 +1,137 @@
+{
+ "intro": {
+  "title": "Geologic Time taught by Star Wars",
+  "text": "Geologic time is long and hard to get your head around. This time scale uses one of the greatest films of the 20th century to help you wrap your head around it. In this time scale, we treat the formation of the first rocks as if they coincided with the beginning of Star Wars: The Empire Strikes Back (the edition available on Disney+ in October 2026). The end of the movie, when the credits begin to roll, coincides with present day. We will show the shape of geologic time by exploring what biological events happened at which portions of Earth's history, which will be contextualized by which scene in Star Wars is that percentage of the way through the film. Please enjoy!\n\nAssignment Description: This metaphor uses the fact that a famous film, The Empire Strikes Back, has been seen by enough young students that it provides a basis for \"how far\" through geologic time you are that is much more relatable than massive numbers like 3200 Million Years. Instead, we scale geologic time to a Star Wars film, and describe what is happening in the plot each time a major geobiological event occurs. Students will be surprised by how much of the beginning of the film is \"skipped through\"--that is, how much of Earth's history occured during the Hadean and Archaean periods, and how relatively recently complex biology started to evolve. This both contextualizes humanity's rapid transformation of society and the Earth's surface and humbles students who may see their lifetime as \"the most important\" part of history.\n\nAI Disclaimer: Though AI was used to create the architecture of this site, this assignment was done entirely by me, Ethan David Scott, for my EPS 4 assignment. I did the math, used Desmos calculator to connect the times together, and wrote all the text. The images are not my own; they are sourced from Sci.news, Lucasfilm, and Phys.org.",
+  "button": "A long time ago in a planet right here.."
+ },
+ "events": [
+  {
+   "title": "The Oldest Rocks Form",
+   "geo": "4000 Million Years Ago",
+   "film": "0:00:00",
+   "pos": 0,
+   "present": false,
+   "body": "Around 4,000,000,000 years ago, the first rocks that we can still find formed on the Earth. Though this is not the beginning of the Earth's formation (that would be 4567 million years ago), this is the beginning of our timeline's geologic history, so here it corresponds with the beginning of The Empire Strikes Back: the 21st Century Fox logo, accompanied by trumpet fanfare."
+  },
+  {
+   "title": "Oldest Unambiguous Microbial Fossils",
+   "geo": "3200 Million Years Ago",
+   "film": "0:24:23",
+   "pos": 1463,
+   "present": false,
+   "body": "At this time on Earth, we begin to see clear evidence of microbial fossils, such as microfossils of bacteria-like creatures and microbial mats in the ocean.\n\nWe are now well into the film: Leia instructs the rebel pilots in how to escape the Empire's bombardment, as they prepare for the battle of Hoth."
+  },
+  {
+   "title": "Oldest Unambiguous Eukaryotes",
+   "geo": "1600 Million Years Ago",
+   "film": "1:13:10",
+   "pos": 4390,
+   "present": false,
+   "body": "Finally, 2,400,000,000 years after the first rocks, Eukaryotes make their way into the world. Their lineage will include mushrooms, trees, animals, fish, and every human that's ever lived.\n\nWe are now well over halfway through The Empire Strikes Back. Eukaryotes emerge just as Master Yoda proves to Luke that the impossible is possible, using the force to lift the swamped starfighter onto dry land using only his mind."
+  },
+  {
+   "title": "Oldest Unambiguous Animal Body Fossils",
+   "geo": "575 Million Years Ago",
+   "film": "01:44:25",
+   "pos": 6265,
+   "present": false,
+   "body": "Per Wikipedia, these were \"unusual tube and frond-shaped, mostly sessile, organisms.\" [link](https://en.wikipedia.org/wiki/Ediacaran_biota)\n\nBy the time animals arrive on planet Earth, Darth Vader has already lured Luke into his trap on Cloud City, light-saber-dueled him, and thrown him into the carbonite freezer."
+  },
+  {
+   "title": "First Animals With Eyes",
+   "geo": "521 Million Years Ago",
+   "film": "01:46:04",
+   "pos": 6364,
+   "present": false,
+   "body": "Marine animals begin to see and process their surroundings through photo-sensitive organs.\n\nMeanwhile, Vader rediscovers Luke hiding in the vents of Cloud City, and begins ripping vents from the walls to throw at Luke using the force."
+  },
+  {
+   "title": "First Terrestrial Plants",
+   "geo": "470 Million Years Ago",
+   "film": "1:47:37",
+   "pos": 6457,
+   "present": false,
+   "body": "As plants begin to expand their domain, they find new resources, niches, and sources of energy. The earth is now in the Middle Ordovician period.\n\nIn Star Wars, R2-D2 attempts to hack into the Cloud City computer, and gets badly zapped."
+  },
+  {
+   "title": "First Jawed Vertebrates",
+   "geo": "439 Million Years Ago",
+   "film": "1:48:34",
+   "pos": 6514,
+   "present": false,
+   "body": "Jawed sea life enters the scene. No, not that kind of Jawed sea life... though, the first sharks had already appeared at this time, and it's an open area of scientific debate if those first sharks had jaws--but no solid evidence has been found yet, so this is the earliest we can confirm that jawed vertebrates roamed the seas.\n\nLeia, R2, C3PO, and Chewie flee stormtroopers, running onboard the Millennium Falcon."
+  },
+  {
+   "title": "First Forests",
+   "geo": "385 Million Years Ago",
+   "film": "1:50:12",
+   "pos": 6612,
+   "present": false,
+   "body": "The first forests spring up, bringing wonderful vibes to everyone.\nOddly, though, the first national parks wouldn't appear until 154 years ago, meaning these beautiful biomes were unprotected for approximately 384,999,846 years. Good thing nobody chopped them all down.\n\nVader knocks Luke to the ground, telling him, \"you are beaten. It is useless to resist\". Luke resists."
+  },
+  {
+   "title": "First Terrestrial Tetrapod",
+   "geo": "348 Million Years Ago",
+   "film": "1:51:20",
+   "pos": 6680,
+   "present": false,
+   "body": "First Terrestrial Tetrapods- and boy, they were not lookers! This guy reminds me of the R.O.U.S's from The Princess Bride.\n\n[Spoiler]\nVader reveals who Luke's father really is. Luke utters the famously composed, \"that's impossible!\""
+  },
+  {
+   "title": "First Mammals",
+   "geo": "205 Million Years Ago",
+   "film": "1:55:42",
+   "pos": 6942,
+   "present": false,
+   "body": "Mammals enter the scene. For a long time, mammals were mostly diminutive insect eaters that looked like a rodent.\nThis is an active area of research and discussion, and some claim mammals arrived as early as 225 Ma.\n\nA battered Luke stumbles into the cockpit of the Falcon, supported by Lando. Leia runs to embrace him, relieved."
+  },
+  {
+   "title": "First Flowering Plants",
+   "geo": "135 Million Years Ago",
+   "film": "1:57:50",
+   "pos": 7070,
+   "present": false,
+   "body": "According to [these guys](https://thursd.com/articles/the-first-flower-in-the-history-of-earth), they might have looked sort of like a magnolia.\n\nVader looks out into space, speaking to Luke through the force."
+  },
+  {
+   "title": "Non-Avian Dinosaurs Go Extinct",
+   "geo": "66 Million Years Ago",
+   "film": "1:59:56",
+   "pos": 7196,
+   "present": false,
+   "body": "Contrary to the \"65 Million Years Ago\" line we all heard growing up, recent evidence shows it was likely closer to 66 Ma when the asteroid (and Deccan traps, and other factors) drove the massive extinction that ended the age of the dinosaurs.\n\n...except for the chickens, that is. Maybe through chickens, that age lives on.\n\nWe see the rebel fleet, now joined by the Millennium Falcon. It seems, for a brief moment, that they are safe, but still on the run."
+  },
+  {
+   "title": "Oldest Known Primate",
+   "geo": "55 Million Years Ago",
+   "film": "2:00:16",
+   "pos": 7216,
+   "present": false,
+   "body": "Finally, something that looks like a human!\nWell, not really. Those eyes haunt me a little.\nThis is Archicebus achilles, the beginning of the primates.\n\nLando prepares to leave with the Falcon and Chewie, heading out to find Jabba the Hutt and rescue Han. Luke wishes him luck."
+  },
+  {
+   "title": "Current Ice Age Begins",
+   "geo": "2.6 Million Years Ago",
+   "film": "02:01:52",
+   "pos": 7312,
+   "present": false,
+   "body": "Also known as the Quaternary Glaciation, it still counts as current because there are massive, permanent ice sheets in Antarctica and Greenland. For now.\n\nThe rebel fleet, containing Leia, R2, C3PO, and 95% of Luke, pulls away into the depths of space as the score builds."
+  },
+  {
+   "title": "Modern Humans Appear",
+   "geo": "0.2 Million Years Ago (200,000 Years Ago)",
+   "film": "02:01:56",
+   "pos": 7316,
+   "present": false,
+   "body": "Homo Sapiens has arrived, the life of the party--and, it seems, has missed the entire movie!\nThat is to say, our little slice of geologic time is absolutely miniscule. We have arrived one second before the credits roll. We missed Hoth, we missed Yoda, we missed the greatest plot twist in the history of American cinema, and we missed...uh...[this](https://www.youtube.com/watch?v=wlceKaaffzk).\n\nThe last image of the rebel fleet is being closed out by a radial iris wipe (the circle transition Star Wars is so famous for using). Humans are really, really, really, geologically young."
+  },
+  {
+   "title": "You Click the Link to this Webpage",
+   "geo": "0 Million Years Ago",
+   "film": "2:01:57",
+   "pos": 7317,
+   "present": true,
+   "body": "And what a good choice it was, because now you have a better understanding of the shape of geologic time!\n\nIn Star Wars, the credits begin to roll, and John Williams' famous theme plays, full blast, from an incredible orchestra in the recording studio."
+  }
+ ]
+}
